@@ -1,4 +1,5 @@
-## js-week9最終關卡
-# 前台+後台
+# js-week9最終關卡
 
-GitHub Pages:
+
+前台GitHub Pages: https://alice2317.github.io/js-week9/
+後台GitHub Pages: https://alice2317.github.io/js-week9/admin.html
